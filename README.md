@@ -9,7 +9,7 @@ I am a Bachelor of Information System from Tarumanagara University, who is inter
 ## 🌟 About Me  
 - 🎓 Lab Instructor for Applied Statistics, Database Design, Object-Oriented Programming, Web Development, and Oracle Database Administration
 - 🧠 Strong interest in database management, query optimization, backend development, and data engineering
-- 🧩 Experienced with Python, SQL (PostgreSQL & Oracle), Django, and various data-processing tools
+- 🧩 Experienced with Python, SQL & PostgreSQL , Django, and various data-processing tools
 - 📊 Familiar with handling large-scale data, building automation, and delivering efficient technical solutions
 - 🤝 Comfortable working in teams through experiences as a Backend Developer & Data Engineer intern and various university projects
 - 🚀 Always eager to learn new technologies, frameworks, and tools to continuously improve my technical skillset
